@@ -1,0 +1,15 @@
+﻿  Bus.cpp
+  Cartridge.cpp
+  Mapper.cpp
+  Mapper_000.cpp
+  Mapper_001.cpp
+  Mapper_002.cpp
+  Mapper_003.cpp
+  Mapper_004.cpp
+  Mapper_066.cpp
+  olc2A03.cpp
+  olc2C02.cpp
+  olc6502.cpp
+  olcNes_Sounds1.cpp
+  Generating Code...
+  NES_VS_PROJECT.vcxproj -> C:\Users\ashme\OneDrive\Documents\olcNES-master\Part #7 - Mappers & Basic Sounds\NES_VS_PROJECT\x64\Debug\NES_VS_PROJECT.exe
